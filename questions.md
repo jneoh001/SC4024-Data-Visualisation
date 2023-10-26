@@ -9,3 +9,10 @@
 5. How does the average income per capita vary across prefectures, and is there a correlation between income and life expectancy?
 6. How does the population density vary across prefectures, and is there a correlation between population density and life expectancy?
 7. How does the amount of money spent on healthcare, education, and welfare vary across prefectures, and is there a correlation between these factors and life expectancy?
+
+
+
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
+
+
+
